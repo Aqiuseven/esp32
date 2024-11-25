@@ -1,15 +1,15 @@
 <script setup lang="ts">
 import { ref } from 'vue'
-const visible = ref(true)
+// const visible = ref(true)
 
-function closetz() {
-    visible.value = false
-}
+// function closetz() {
+//     visible.value = false
+// }
 
 // setTimeout(function () { visible.value = false }, 0);
 </script>
 
-<template>
+<!-- <template>
     <div v-if="visible" class="notice-background" style="display: block;"></div>
 
     <div v-if="visible" class="notice">
@@ -33,9 +33,9 @@ function closetz() {
         </div>
 
     </div>
-</template>
+</template> -->
 
-<style scoped>
+<!-- <style scoped>
 .notice-img {
     z-index: 9999
 }
@@ -127,4 +127,4 @@ function closetz() {
     display: inline-block;
     text-wrap: nowrap;
 }
-</style>
+</style> -->
