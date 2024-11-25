@@ -143,7 +143,7 @@ export default defineConfig({
       manualSortFileNameByPriority: ['esp32'], //手动排序，文件夹不用带后缀
       removePrefixAfterOrdering: true, //删除前缀，必须与prefixSeparator一起使用
       prefixSeparator: '.', //删除前缀的符号
-      // excludeFiles: ['first.md', 'secret.md'],
+      excludeFiles: ['update.md'], // 排除
       // excludeFilesByFrontmatterFieldName: 'exclude',
       // excludeFolders: ['secret-folder'],
       // includeDotFiles: false,
