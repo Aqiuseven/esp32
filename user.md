@@ -29,4 +29,4 @@ title: 序言
 
 
 ## 整篇涉及到的代码
-<Linkcard url="https://github.com/Aqiuseven/WuLianWang" title="ESP-基础开发" description="https://github.com/Aqiuseven/WuLianWang" logo="https://www.helloimg.com/i/2024/11/25/6743e054ddcec.png"/>
+<Linkcard url="https://github.com/Aqiuseven/esp32-code.git" title="ESP-基础开发"  logo="https://s21.ax1x.com/2024/11/25/pAhriuV.png"/>
