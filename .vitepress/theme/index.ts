@@ -96,10 +96,10 @@ export default {
 
     // giscus配置
     giscusTalk({
-      repo: 'Yiov/vitepress-doc', //仓库
-      repoId: 'R_kgDOGYFl1A', //仓库ID
+      repo: 'Aqiuseven/esp32', //仓库
+      repoId: 'R_kgDONUagtQ', //仓库ID
       category: 'Announcements', // 讨论分类
-      categoryId: 'DIC_kwDOGYFl1M4CayLM', //讨论分类ID
+      categoryId: 'DIC_kwDONUagtc4CklMT', //讨论分类ID
       mapping: 'pathname',
       inputPosition: 'bottom',
       lang: 'zh-CN',

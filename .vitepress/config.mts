@@ -89,10 +89,10 @@ export default defineConfig({
     //siteTitle: 'Hello World',
 
     //编辑本页
-    editLink: {
-      pattern: 'https://github.com/Yiov/vitepress-doc/edit/main/docs/:path', // 改成自己的仓库
-      text: '在GitHub编辑本页'
-    },
+    // editLink: {
+    //   pattern: 'https://github.com/Yiov/vitepress-doc/edit/main/docs/:path', // 改成自己的仓库
+    //   text: '在GitHub编辑本页'
+    // },
 
     //上次更新时间
     lastUpdated: {
