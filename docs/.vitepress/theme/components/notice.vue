@@ -6,7 +6,7 @@ function closetz() {
     visible.value = false
 }
 
-setTimeout(function () { visible.value = false }, 0);
+// setTimeout(function () { visible.value = false }, 0);
 </script>
 
 <template>

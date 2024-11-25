@@ -107,6 +107,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       {text: '🍉指南', link: '/user'},
+      {text: '🪓更新进度', link: '/update'},
       // { text: `VitePress ${ devDependencies.vitepress.replace('^','') }`, link: 'https://vitepress.dev/zh/', noIcon: true },
     ],
 
