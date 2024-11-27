@@ -6,7 +6,7 @@ title: 序言
 
 ## 本篇内容涉及以下技术：
 
-1.使用 `QT` 开发 嵌入式开发板 的图形界面 
+1.使用 `PYQT` 开发 嵌入式开发板 的图形界面 
 
 2.使用  `micropython`  开发  `ESP32`  程序 
 
@@ -30,3 +30,22 @@ title: 序言
 
 ## 整篇涉及到的代码
 <Linkcard url="https://github.com/Aqiuseven/esp32-code.git" title="ESP-基础开发"  logo="https://s21.ax1x.com/2024/11/25/pAhriuV.png"/>
+
+
+
+## issue 提交
+
+编写本文时，编者尚是一名初学者，个人的能力、经验和见识均有限。所写内容难免也有错误及不妥之处，还请各位见谅。同时也恳请各位同学、读者予以指正。本文所有内容都发布在Github 和 Gitee 仓库，Gitee 是克隆仓，您可以在任何一个您方便的位置提交你的修改或者提交issue。最后，再次感谢您的指正。
+
+<Linkcard url="https://github.com/Aqiuseven/esp32" title="GitHub仓库【主】"  logo="https://s21.ax1x.com/2024/11/25/pAhriuV.png"/>
+<Linkcard url="https://gitee.com/tenseven/esp32" title="Gitee仓库【克隆】"  logo="https://s21.ax1x.com/2024/11/25/pAhDvNQ.png"/>
+
+
+
+## 参考资料
+
+在本文编写过程中，也看了很多前辈写的资料，对我编写本文来说提供了很大很大的帮助，对此也是不胜感激。各位前辈的资料大多也是十分详尽和基础，本文若是有表述不祥的地方，读者也可以多参考以下的文章。
+
+<Linkcard url="https://wiki.lckfb.com/zh-hans/esp32s3r8n8/micropython-beginner/" title="立创开发板Micropython入门教程"  logo="https://wiki.lckfb.com/storage/logo/logo_cn_light.svg"/>
+
+<Linkcard url="https://docs.geeksman.com/esp32/#%E7%9B%AE%E5%BD%95-micropython" title="极客侠ESP32教程-Micropython篇"  logo="https://docs.geeksman.com/logo.png"/>
