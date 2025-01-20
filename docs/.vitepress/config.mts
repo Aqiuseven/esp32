@@ -13,8 +13,8 @@ const vitepressSidebarOptions = {
 
 export default defineConfig({
   lang: 'zh-CN',
-  title: "物联网开发指南",
-  description: "物联网开发指南，包含ESP-WROOM-32的基础开发指南，以及基于orangi-pi-2w + QT 的嵌入式开发指南",
+  title: "物联网硬件开发指南",
+  description: "物联网硬件开发指南，包含ESP-WROOM-32的基础开发指南，以及基于orangi-pi-2w + QT 的嵌入式开发指南",
 
   // #region fav
   head: [
@@ -27,7 +27,7 @@ export default defineConfig({
   cleanUrls:true, //开启纯净链接无html
 
   //启用深色模式
-  appearance: 'dark',
+  appearance:true,
 
   //markdown配置
   markdown: {

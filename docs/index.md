@@ -1,11 +1,11 @@
 ---
 layout: home
 
-title: 物联网开发
+title: 物联网硬件开发
 titleTemplate: 快速上手指南
 
 hero:
-  name: 物联网开发
+  name: 物联网硬件开发
   text: "快速上手指南"
   tagline: 基于 ESP-WROOM-3、orangi-pi-2w、QT 开发
   image:
